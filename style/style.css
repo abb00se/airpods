@@ -22,7 +22,8 @@ ul {
 }
 
 body {
-    background: rgb(0, 0, 0);
+    /* background: rgb(0, 0, 0); */
+    background-color: brown;
 }
 
 .nav {
